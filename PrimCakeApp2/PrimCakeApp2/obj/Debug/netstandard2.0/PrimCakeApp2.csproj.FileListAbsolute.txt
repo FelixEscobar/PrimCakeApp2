@@ -1,0 +1,16 @@
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\bin\Debug\netstandard2.0\PrimCakeApp2.deps.json
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\bin\Debug\netstandard2.0\PrimCakeApp2.dll
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\bin\Debug\netstandard2.0\PrimCakeApp2.pdb
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\PrimCakeApp2.csproj.AssemblyReference.cache
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\Views\ProductDetailPage.xaml.g.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\Views\ProductListPage.xaml.g.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\PrimCakeApp2.AssemblyInfoInputs.cache
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\PrimCakeApp2.AssemblyInfo.cs
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\PrimCakeApp2.csproj.CoreCompileInputs.cache
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\PrimCakeApp2.dll
+C:\Users\GS-0015\source\repos\PrimCakeApp2\PrimCakeApp2\PrimCakeApp2\obj\Debug\netstandard2.0\PrimCakeApp2.pdb
